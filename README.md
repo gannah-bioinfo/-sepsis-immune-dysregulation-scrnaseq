@@ -27,7 +27,7 @@ Implemented in R (Seurat v5):
 
 ## Key Findings
 
-- Sepsis drives a myeloid-dominant compositional shift: neutrophils expand from <1% (controls) to ~37% (patients), with concurrent lymphopenia. Confirmed significant both per-cell (χ² = 14,404, p < 2.2×10⁻¹⁶) and at the patient level (n = 46, Wilcoxon FDR < 0.05 for 8/14 populations).
+- Sepsis drives a myeloid-dominant compositional shift: neutrophils expand from <1% (controls) to ~37% (patients), with concurrent lymphopenia. Confirmed significant both per-cell (χ² = 14,404, p < 2.2×10⁻¹⁶) and at the patient level (n = 46, Wilcoxon FDR < 0.05 for 9/14 populations).
 - Monocytes and neutrophils show distinct transcriptional/pathway programs (antiviral/interferon vs. detoxification/metabolic stress).
 - Neutrophil proportion scales with clinical severity (24% mild/moderate → 43% severe).
 - Cross-cohort validation (GSE157789) shows neutrophil expansion also tracks with disease stage, and reveals an etiology-specific signature: interferon-driven in COVID-ARDS neutrophils vs. bacterial/LPS-driven (IL1B, CXCL8) in non-COVID ARDS monocytes.
